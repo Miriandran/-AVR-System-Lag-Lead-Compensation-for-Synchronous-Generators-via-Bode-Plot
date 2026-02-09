@@ -1,0 +1,1 @@
+# -AVR-System-Lag-Lead-Compensation-for-Synchronous-Generators-via-Bode-Plot
